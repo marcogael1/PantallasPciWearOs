@@ -42,4 +42,4 @@ Estas pruebas permiten validar que el diseño es responsivo y funcional en disti
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/wearos-design-pci.git
+   git clone https://github.com/marcogael1/PantallasPciWearOs.git
