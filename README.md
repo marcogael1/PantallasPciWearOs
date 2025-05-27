@@ -33,8 +33,7 @@ Estas pruebas permiten validar que el diseño es responsivo y funcional en disti
 - **Android Studio Giraffe o superior**
 - **Jetpack Compose para Wear OS**
 - **Material Design para Wear OS**
-- **Figma** con el plugin **Wear OS UI Kit**
-- **Emulador de Wear OS** y pruebas opcionales en **dispositivo físico**
+- **Emulador de Wear OS**
 
 ---
 
